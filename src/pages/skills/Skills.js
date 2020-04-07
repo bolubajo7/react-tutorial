@@ -10,6 +10,8 @@ const Skills = () => {
       <article>
         <h1>My Skills</h1>
         <section>Java</section>
+        <section>SpringBoot</section>
+        <section>JavaScript</section>
       </article>
     </React.Fragment>
   );
